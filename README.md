@@ -1,5 +1,5 @@
 # Free Hosting - How to Host Files on Github
-How to Host Files on Github ..<a href="https://www.miditech.co.in/">MidiTech</a>Look Below
+How to Host Files on Github ..<a href="https://www.miditech.co.in/">MidiTech</a> Look Below
 
 Which is the right VPS server for you ?
 
